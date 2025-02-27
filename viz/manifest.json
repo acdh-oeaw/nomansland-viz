@@ -1,0 +1,21 @@
+{
+  "short_name": "Nomansland",
+  "name": "Nomansland DataViz",
+  "icons": [
+    {
+      "src": "mycon.svg",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "mycon.png",
+      "type": "image/png",
+      "purpose": "any"
+    }
+
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

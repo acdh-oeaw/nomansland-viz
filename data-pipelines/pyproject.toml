@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "data-pipelines"
+version = "0.1.0"
+description = ""
+authors = ["Gytha Ogg <gythaoggscat@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.3"
+jupyterlab = "^4.3.5"
+pyvis = "^0.3.2"
+bokeh = "^3.6.3"
+matplotlib = "^3.10.0"
+tqdm = "^4.67.1"
+networkx = "^3.4.2"
+holoviews = "^1.20.1"
+seaborn = "^0.13.2"
+jinja2 = "^3.1.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
